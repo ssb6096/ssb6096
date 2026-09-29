@@ -101,7 +101,12 @@ Transfer learning with AWD-LSTM and LSTM language models to write song lyrics in
 Neural-network traffic prediction + A* for warehouse AMRs; cut average travel time by ~21% vs. plain A*.<br>
 <a href="https://doi.org/10.1109/WSC52266.2021.9715318">📄 Paper</a> · <a href="https://github.com/ssb6096/Traffic-Avoidance-Path-Planning">📂 Code</a>
 </td>
-<td width="50%"></td>
+<td width="50%" valign="top">
+<a href="https://www.youtube.com/watch?v=aznitAY63tw"><img src="https://img.youtube.com/vi/aznitAY63tw/mqdefault.jpg" width="100%" alt="Simio BBQ Restaurant Simulation"></a>
+<h4><a href="https://github.com/ssb6096/Simio-BBQ-Restaurant-Simulation">Simio BBQ Restaurant Simulation 🏅</a></h4>
+Simio Student Competition 2020, semi-finalist (with Catherine Wright). OptQuest + KN selection halved walk-away customers.<br>
+<a href="https://www.youtube.com/watch?v=aznitAY63tw">▶️ Video</a> · <a href="https://github.com/ssb6096/Simio-BBQ-Restaurant-Simulation">📂 Model</a>
+</td>
 </tr>
 </table>
 
