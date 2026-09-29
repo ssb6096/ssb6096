@@ -4,7 +4,7 @@
 
 🎓 Graduating **December 2026**, open to **postdoctoral research positions** in robotics, RL, and HRI.
 
-📄 [Google Scholar](https://scholar.google.com/citations?user=SCAe6EMAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0002-1209-7308) · [LinkedIn](https://linkedin.com/in/sriparvathi-bhattathiri)
+📄 [**CV (PDF)**](./Sriparvathi_Bhattathiri_CV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=SCAe6EMAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0002-1209-7308) · [LinkedIn](https://linkedin.com/in/sriparvathi-bhattathiri)
 
 ---
 
@@ -40,4 +40,4 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=SCAe6EMA
 
 ---
 
-📫 Reach me through [LinkedIn](https://linkedin.com/in/sriparvathi-bhattathiri).
+📫 Reach me at ssb6096@g.rit.edu or on [LinkedIn](https://linkedin.com/in/sriparvathi-bhattathiri).
