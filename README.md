@@ -33,10 +33,16 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=SCAe6EMA
 
 ### 📌 Earlier projects
 
-- [EMG-controlled robot arm](https://github.com/ssb6096/EMG_Controlled_Arm_Robot): hand-gesture classification from EMG signals
-- [Autonomous mobile manipulator](https://github.com/ssb6096/Autonomous-mobile-manipulator): inverse kinematics for a 5-DOF arm
-- [Path planning with CNNs](https://github.com/ssb6096/Path_Planning_CNN): learning-based path planning in mazes
-- [Volume estimation from 2D images](https://github.com/ssb6096/Volume_Estimation_2D_images): food volume from images using SfM and NeRF
+| Project | Highlights | Demo |
+|---|---|---|
+| [Autonomous mobile manipulator](https://github.com/ssb6096/Autonomous-mobile-manipulator) | AmigoBot + Xtion RGB-D, ORB-SLAM2 in ROS, AL5B arm pick-and-place with inverse kinematics | [▶️ Video](https://www.youtube.com/watch?v=RUvS4jGKha0) |
+| [Real-time EMG-controlled arm robot](https://github.com/ssb6096/EMG_Controlled_Arm_Robot) | Myo Armband EMG gesture classification (LDA / SVM / RF) driving a robot arm | [▶️ Video](https://www.youtube.com/watch?v=Y88WK2LawpA) |
+| [Mobile robot path planning](https://github.com/ssb6096/Path_Planning_CNN) | CNN vs. reinforcement learning path planning on mazes and city maps | [📑 Slides](https://github.com/ssb6096/Path_Planning_CNN/blob/master/docs/Path_Planning_CNN_RL_Presentation.pdf) |
+| [Emotion detection from EEG](https://github.com/ssb6096/Emotion_Detection_EEG_Signals) | M.S. graduate paper: EEG features + SVM / KNN / RF / AdaBoost | [▶️ Video](https://www.youtube.com/watch?v=cSHnOIqt5nI) |
+| [Food volume estimation from 2D images](https://github.com/ssb6096/Volume_Estimation_2D_images) | Camera calibration, ArUco frame transforms, Structure from Motion, NeRF | [▶️ Video](https://www.youtube.com/watch?v=0JI2T99j86U) |
+| [Lyrics generation with LSTMs](https://github.com/ssb6096/Natural_Language_processing-Structured_Text_Generation) | Transfer learning with AWD-LSTM and LSTM language models | [📑 Poster](https://github.com/ssb6096/Natural_Language_processing-Structured_Text_Generation/blob/master/docs/NLP_Structured_Text_Generation_Poster.pdf) |
+
+More on my [Portfolium portfolio](https://portfolium.com/ssb6096/portfolio).
 
 ---
 
