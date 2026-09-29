@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="360" viewBox="0 0 1500 360" role="img" aria-label="Sriparvathi Shaji Bhattathiri - PhD Candidate, AI and Robotics for Warehouse Automation">
+<defs>
+<linearGradient id="fade" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.42" stop-color="#fff" stop-opacity="0"/><stop offset="0.62" stop-color="#fff" stop-opacity="1"/><stop offset="1" stop-color="#fff" stop-opacity="1"/></linearGradient>
+<mask id="m"><rect width="1500" height="360" fill="url(#fade)"/></mask>
+</defs>
+<rect x="1" y="1" width="1498" height="358" rx="18" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+<g mask="url(#m)">
+<line x1="0" y1="0" x2="0" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="30" y1="0" x2="30" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="60" y1="0" x2="60" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="90" y1="0" x2="90" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="120" y1="0" x2="120" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="150" y1="0" x2="150" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="180" y1="0" x2="180" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="210" y1="0" x2="210" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="240" y1="0" x2="240" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="270" y1="0" x2="270" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="300" y1="0" x2="300" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="330" y1="0" x2="330" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="360" y1="0" x2="360" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="390" y1="0" x2="390" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="420" y1="0" x2="420" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="450" y1="0" x2="450" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="480" y1="0" x2="480" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="510" y1="0" x2="510" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="540" y1="0" x2="540" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="570" y1="0" x2="570" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="600" y1="0" x2="600" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="630" y1="0" x2="630" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="660" y1="0" x2="660" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="690" y1="0" x2="690" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="720" y1="0" x2="720" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="750" y1="0" x2="750" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="780" y1="0" x2="780" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="810" y1="0" x2="810" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="840" y1="0" x2="840" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="870" y1="0" x2="870" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="900" y1="0" x2="900" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="930" y1="0" x2="930" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="960" y1="0" x2="960" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="990" y1="0" x2="990" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="1020" y1="0" x2="1020" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="1050" y1="0" x2="1050" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="1080" y1="0" x2="1080" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="1110" y1="0" x2="1110" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="1140" y1="0" x2="1140" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="1170" y1="0" x2="1170" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="1200" y1="0" x2="1200" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="1230" y1="0" x2="1230" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="1260" y1="0" x2="1260" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="1290" y1="0" x2="1290" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="1320" y1="0" x2="1320" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="1350" y1="0" x2="1350" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="1380" y1="0" x2="1380" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="1410" y1="0" x2="1410" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="1440" y1="0" x2="1440" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="1470" y1="0" x2="1470" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="1500" y1="0" x2="1500" y2="360" stroke="#1A212B" stroke-width="1"/>
+<line x1="0" y1="0" x2="1500" y2="0" stroke="#1A212B" stroke-width="1"/>
+<line x1="0" y1="30" x2="1500" y2="30" stroke="#1A212B" stroke-width="1"/>
+<line x1="0" y1="60" x2="1500" y2="60" stroke="#1A212B" stroke-width="1"/>
+<line x1="0" y1="90" x2="1500" y2="90" stroke="#1A212B" stroke-width="1"/>
+<line x1="0" y1="120" x2="1500" y2="120" stroke="#1A212B" stroke-width="1"/>
+<line x1="0" y1="150" x2="1500" y2="150" stroke="#1A212B" stroke-width="1"/>
+<line x1="0" y1="180" x2="1500" y2="180" stroke="#1A212B" stroke-width="1"/>
+<line x1="0" y1="210" x2="1500" y2="210" stroke="#1A212B" stroke-width="1"/>
+<line x1="0" y1="240" x2="1500" y2="240" stroke="#1A212B" stroke-width="1"/>
+<line x1="0" y1="270" x2="1500" y2="270" stroke="#1A212B" stroke-width="1"/>
+<line x1="0" y1="300" x2="1500" y2="300" stroke="#1A212B" stroke-width="1"/>
+<line x1="0" y1="330" x2="1500" y2="330" stroke="#1A212B" stroke-width="1"/>
+<line x1="0" y1="360" x2="1500" y2="360" stroke="#1A212B" stroke-width="1"/>
+<rect x="1023" y="33" width="54" height="114" rx="4" fill="#1F2833" stroke="#2A3542" stroke-width="1.5"/>
+<line x1="1026" y1="60" x2="1074" y2="60" stroke="#2A3542" stroke-width="1"/>
+<line x1="1026" y1="90" x2="1074" y2="90" stroke="#2A3542" stroke-width="1"/>
+<line x1="1026" y1="120" x2="1074" y2="120" stroke="#2A3542" stroke-width="1"/>
+<rect x="1023" y="213" width="54" height="114" rx="4" fill="#1F2833" stroke="#2A3542" stroke-width="1.5"/>
+<line x1="1026" y1="240" x2="1074" y2="240" stroke="#2A3542" stroke-width="1"/>
+<line x1="1026" y1="270" x2="1074" y2="270" stroke="#2A3542" stroke-width="1"/>
+<line x1="1026" y1="300" x2="1074" y2="300" stroke="#2A3542" stroke-width="1"/>
+<rect x="1143" y="33" width="54" height="114" rx="4" fill="#1F2833" stroke="#2A3542" stroke-width="1.5"/>
+<line x1="1146" y1="60" x2="1194" y2="60" stroke="#2A3542" stroke-width="1"/>
+<line x1="1146" y1="90" x2="1194" y2="90" stroke="#2A3542" stroke-width="1"/>
+<line x1="1146" y1="120" x2="1194" y2="120" stroke="#2A3542" stroke-width="1"/>
+<rect x="1143" y="213" width="54" height="114" rx="4" fill="#1F2833" stroke="#2A3542" stroke-width="1.5"/>
+<line x1="1146" y1="240" x2="1194" y2="240" stroke="#2A3542" stroke-width="1"/>
+<line x1="1146" y1="270" x2="1194" y2="270" stroke="#2A3542" stroke-width="1"/>
+<line x1="1146" y1="300" x2="1194" y2="300" stroke="#2A3542" stroke-width="1"/>
+<rect x="1263" y="33" width="54" height="114" rx="4" fill="#1F2833" stroke="#2A3542" stroke-width="1.5"/>
+<line x1="1266" y1="60" x2="1314" y2="60" stroke="#2A3542" stroke-width="1"/>
+<line x1="1266" y1="90" x2="1314" y2="90" stroke="#2A3542" stroke-width="1"/>
+<line x1="1266" y1="120" x2="1314" y2="120" stroke="#2A3542" stroke-width="1"/>
+<rect x="1263" y="213" width="54" height="114" rx="4" fill="#1F2833" stroke="#2A3542" stroke-width="1.5"/>
+<line x1="1266" y1="240" x2="1314" y2="240" stroke="#2A3542" stroke-width="1"/>
+<line x1="1266" y1="270" x2="1314" y2="270" stroke="#2A3542" stroke-width="1"/>
+<line x1="1266" y1="300" x2="1314" y2="300" stroke="#2A3542" stroke-width="1"/>
+<rect x="1383" y="33" width="54" height="114" rx="4" fill="#1F2833" stroke="#2A3542" stroke-width="1.5"/>
+<line x1="1386" y1="60" x2="1434" y2="60" stroke="#2A3542" stroke-width="1"/>
+<line x1="1386" y1="90" x2="1434" y2="90" stroke="#2A3542" stroke-width="1"/>
+<line x1="1386" y1="120" x2="1434" y2="120" stroke="#2A3542" stroke-width="1"/>
+<rect x="1383" y="213" width="54" height="114" rx="4" fill="#1F2833" stroke="#2A3542" stroke-width="1.5"/>
+<line x1="1386" y1="240" x2="1434" y2="240" stroke="#2A3542" stroke-width="1"/>
+<line x1="1386" y1="270" x2="1434" y2="270" stroke="#2A3542" stroke-width="1"/>
+<line x1="1386" y1="300" x2="1434" y2="300" stroke="#2A3542" stroke-width="1"/>
+<path d="M 1005.0 345.0 L 1215.0 345.0 L 1215.0 195.0 L 1455.0 195.0 L 1455.0 75.0" fill="none" stroke="#FF8A3D" stroke-width="3" stroke-dasharray="2 9" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+<g transform="translate(1455.0 75.0) rotate(45)"><rect x="-7" y="-7" width="14" height="14" rx="2" fill="none" stroke="#FF8A3D" stroke-width="2.5"/></g>
+<g transform="translate(1005.0 345.0) rotate(0)"><rect x="-12" y="-12" width="24" height="24" rx="6" fill="#0D1117" stroke="#FF8A3D" stroke-width="3"/><path d="M 2 -5 L 8 0 L 2 5 Z" fill="#FF8A3D"/></g>
+<path d="M 1335.0 345.0 L 1335.0 165.0 L 1245.0 165.0 L 1245.0 45.0" fill="none" stroke="#2DD4BF" stroke-width="3" stroke-dasharray="2 9" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+<g transform="translate(1245.0 45.0) rotate(45)"><rect x="-7" y="-7" width="14" height="14" rx="2" fill="none" stroke="#2DD4BF" stroke-width="2.5"/></g>
+<g transform="translate(1335.0 345.0) rotate(-90)"><rect x="-12" y="-12" width="24" height="24" rx="6" fill="#0D1117" stroke="#2DD4BF" stroke-width="3"/><path d="M 2 -5 L 8 0 L 2 5 Z" fill="#2DD4BF"/></g>
+<path d="M 1095.0 15.0 L 1095.0 195.0 L 975.0 195.0" fill="none" stroke="#8B9BFF" stroke-width="3" stroke-dasharray="2 9" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+<g transform="translate(975.0 195.0) rotate(45)"><rect x="-7" y="-7" width="14" height="14" rx="2" fill="none" stroke="#8B9BFF" stroke-width="2.5"/></g>
+<g transform="translate(1095.0 15.0) rotate(90)"><rect x="-12" y="-12" width="24" height="24" rx="6" fill="#0D1117" stroke="#8B9BFF" stroke-width="3"/><path d="M 2 -5 L 8 0 L 2 5 Z" fill="#8B9BFF"/></g>
+</g>
+<rect x="72" y="92" width="56" height="5" rx="2.5" fill="#FF8A3D"/>
+<text x="70" y="160" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#F1F5F9" letter-spacing="-0.5">Sriparvathi Shaji Bhattathiri</text>
+<text x="72" y="212" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="27" font-weight="600" fill="#CBD5E1">PhD Candidate · AI &amp; Robotics for Warehouse Automation</text>
+<text x="72" y="254" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="21" fill="#94A3B8">Multi-agent RL  ·  Human–Robot Interaction  ·  Simulation &amp; Digital Twins</text>
+<text x="72" y="296" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#FF8A3D">Rochester Institute of Technology</text>
+</svg>

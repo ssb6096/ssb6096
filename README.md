@@ -1,4 +1,10 @@
-## Hi, I'm Sriparvathi (Sri) 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="Sriparvathi Shaji Bhattathiri: PhD Candidate, AI & Robotics for Warehouse Automation, Rochester Institute of Technology" src="assets/banner-light.svg" width="100%">
+</picture>
+
+### Hi, I'm Sri 👋
 
 **PhD candidate at Rochester Institute of Technology (RIT)**, working on AI and robotics for warehouse automation: multi-agent reinforcement learning for AMR fleets, simulation and digital twins, and human–robot interaction.
 
