@@ -51,14 +51,50 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=SCAe6EMA
 
 ### 📌 Earlier projects
 
-| Project | Highlights | Demo |
-|---|---|---|
-| [Autonomous mobile manipulator](https://github.com/ssb6096/Autonomous-mobile-manipulator) | AmigoBot + Xtion RGB-D, ORB-SLAM2 in ROS, AL5B arm pick-and-place with inverse kinematics | [▶️ Video](https://www.youtube.com/watch?v=RUvS4jGKha0) |
-| [Real-time EMG-controlled arm robot](https://github.com/ssb6096/EMG_Controlled_Arm_Robot) | Myo Armband EMG gesture classification (LDA / SVM / RF) driving a robot arm | [▶️ Video](https://www.youtube.com/watch?v=Y88WK2LawpA) |
-| [Mobile robot path planning](https://github.com/ssb6096/Path_Planning_CNN) | CNN vs. reinforcement learning path planning on mazes and city maps | [📑 Slides](https://github.com/ssb6096/Path_Planning_CNN/blob/master/docs/Path_Planning_CNN_RL_Presentation.pdf) |
-| [Emotion detection from EEG](https://github.com/ssb6096/Emotion_Detection_EEG_Signals) | M.S. graduate paper: EEG features + SVM / KNN / RF / AdaBoost | [▶️ Video](https://www.youtube.com/watch?v=cSHnOIqt5nI) |
-| [Food volume estimation from 2D images](https://github.com/ssb6096/Volume_Estimation_2D_images) | Camera calibration, ArUco frame transforms, Structure from Motion, NeRF | [▶️ Video](https://www.youtube.com/watch?v=0JI2T99j86U) |
-| [Lyrics generation with LSTMs](https://github.com/ssb6096/Natural_Language_processing-Structured_Text_Generation) | Transfer learning with AWD-LSTM and LSTM language models | [📑 Poster](https://github.com/ssb6096/Natural_Language_processing-Structured_Text_Generation/blob/master/docs/NLP_Structured_Text_Generation_Poster.pdf) |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://www.youtube.com/watch?v=RUvS4jGKha0"><img src="https://img.youtube.com/vi/RUvS4jGKha0/mqdefault.jpg" width="100%" alt="Autonomous Mobile Manipulator"></a>
+<h4><a href="https://github.com/ssb6096/Autonomous-mobile-manipulator">Autonomous Mobile Manipulator</a></h4>
+AmigoBot with Xtion RGB-D camera, ORB-SLAM2 mapping in ROS, and an AL5B arm doing pick-and-place with inverse kinematics.<br>
+<a href="https://www.youtube.com/watch?v=RUvS4jGKha0">▶️ Demo</a> · <a href="https://github.com/ssb6096/Autonomous-mobile-manipulator">📂 Code</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.youtube.com/watch?v=Y88WK2LawpA"><img src="https://img.youtube.com/vi/Y88WK2LawpA/mqdefault.jpg" width="100%" alt="Real-Time EMG-Controlled Arm Robot"></a>
+<h4><a href="https://github.com/ssb6096/EMG_Controlled_Arm_Robot">Real-Time EMG-Controlled Arm Robot</a></h4>
+Hand gestures from a Myo Armband, classified in real time (LDA / SVM / Random Forest), drive a robot arm.<br>
+<a href="https://www.youtube.com/watch?v=Y88WK2LawpA">▶️ Demo</a> · <a href="https://github.com/ssb6096/EMG_Controlled_Arm_Robot">📂 Code</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/ssb6096/Path_Planning_CNN/blob/master/docs/Path_Planning_CNN_RL_Presentation.pdf"><img src="assets/projects/thumb-path-planning.png" width="100%" alt="Mobile Robot Path Planning"></a>
+<h4><a href="https://github.com/ssb6096/Path_Planning_CNN">Mobile Robot Path Planning</a></h4>
+CNN vs. Q-learning path planning on mazes and New York City maps converted to occupancy grids.<br>
+<a href="https://github.com/ssb6096/Path_Planning_CNN/blob/master/docs/Path_Planning_CNN_RL_Presentation.pdf">📑 Slides</a> · <a href="https://github.com/ssb6096/Path_Planning_CNN">📂 Code</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.youtube.com/watch?v=cSHnOIqt5nI"><img src="https://img.youtube.com/vi/cSHnOIqt5nI/mqdefault.jpg" width="100%" alt="Emotion Detection from EEG"></a>
+<h4><a href="https://github.com/ssb6096/Emotion_Detection_EEG_Signals">Emotion Detection from EEG</a></h4>
+M.S. graduate paper: EEG pre-processing, spectral and statistical features, and SVM / KNN / RF / AdaBoost classifiers.<br>
+<a href="https://www.youtube.com/watch?v=cSHnOIqt5nI">▶️ Video</a> · <a href="https://github.com/ssb6096/Emotion_Detection_EEG_Signals/blob/master/docs/Detection_of_Mental_State_Using_EEG_Signals.pdf">📄 Paper</a> · <a href="https://github.com/ssb6096/Emotion_Detection_EEG_Signals">📂 Code</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://www.youtube.com/watch?v=0JI2T99j86U"><img src="https://img.youtube.com/vi/0JI2T99j86U/mqdefault.jpg" width="100%" alt="Food Volume Estimation from 2D Images"></a>
+<h4><a href="https://github.com/ssb6096/Volume_Estimation_2D_images">Food Volume Estimation from 2D Images</a></h4>
+Camera calibration, ArUco frame transforms, Structure from Motion and NeRF to estimate food volume from photos.<br>
+<a href="https://www.youtube.com/watch?v=0JI2T99j86U">▶️ Demo</a> · <a href="https://github.com/ssb6096/Volume_Estimation_2D_images/blob/master/docs/Food_Volume_Estimation_Poster.pdf">📑 Poster</a> · <a href="https://github.com/ssb6096/Volume_Estimation_2D_images">📂 Code</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/ssb6096/Natural_Language_processing-Structured_Text_Generation/blob/master/docs/NLP_Structured_Text_Generation_Poster.pdf"><img src="assets/projects/thumb-nlp-poster.png" width="100%" alt="Lyrics Generation with LSTMs"></a>
+<h4><a href="https://github.com/ssb6096/Natural_Language_processing-Structured_Text_Generation">Lyrics Generation with LSTMs</a></h4>
+Transfer learning with AWD-LSTM and LSTM language models to write song lyrics in an artist's style.<br>
+<a href="https://github.com/ssb6096/Natural_Language_processing-Structured_Text_Generation/blob/master/docs/NLP_Structured_Text_Generation_Poster.pdf">📑 Poster</a> · <a href="https://github.com/ssb6096/Natural_Language_processing-Structured_Text_Generation">📂 Code</a>
+</td>
+</tr>
+</table>
 
 More on my [Portfolium portfolio](https://portfolium.com/ssb6096/portfolio).
 
