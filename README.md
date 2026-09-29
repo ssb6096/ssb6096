@@ -94,6 +94,15 @@ Transfer learning with AWD-LSTM and LSTM language models to write song lyrics in
 <a href="https://github.com/ssb6096/Natural_Language_processing-Structured_Text_Generation/blob/master/docs/NLP_Structured_Text_Generation_Poster.pdf">📑 Poster</a> · <a href="https://github.com/ssb6096/Natural_Language_processing-Structured_Text_Generation">📂 Code</a>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/ssb6096/Traffic-Avoidance-Path-Planning"><img src="assets/projects/thumb-traffic-avoidance.png" width="100%" alt="Traffic Avoidance Path Planning"></a>
+<h4><a href="https://github.com/ssb6096/Traffic-Avoidance-Path-Planning">Traffic Avoidance Path Planning (WSC 2021)</a></h4>
+Neural-network traffic prediction + A* for warehouse AMRs; cut average travel time by ~21% vs. plain A*.<br>
+<a href="https://doi.org/10.1109/WSC52266.2021.9715318">📄 Paper</a> · <a href="https://github.com/ssb6096/Traffic-Avoidance-Path-Planning">📂 Code</a>
+</td>
+<td width="50%"></td>
+</tr>
 </table>
 
 More on my [Portfolium portfolio](https://portfolium.com/ssb6096/portfolio).
