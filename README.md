@@ -105,7 +105,7 @@ Neural-network traffic prediction + A* for warehouse AMRs; cut average travel ti
 <a href="https://www.youtube.com/watch?v=aznitAY63tw"><img src="https://img.youtube.com/vi/aznitAY63tw/mqdefault.jpg" width="100%" alt="Simio BBQ Restaurant Simulation"></a>
 <h4><a href="https://github.com/ssb6096/Simio-BBQ-Restaurant-Simulation">Simio BBQ Restaurant Simulation 🏅</a></h4>
 Simio Student Competition 2020, semi-finalist (with Catherine Wright). OptQuest + KN selection halved walk-away customers.<br>
-<a href="https://www.youtube.com/watch?v=aznitAY63tw">▶️ Video</a> · <a href="https://github.com/ssb6096/Simio-BBQ-Restaurant-Simulation">📂 Model</a>
+<a href="https://www.youtube.com/watch?v=aznitAY63tw">▶️ Video</a> · <a href="https://github.com/ssb6096/Simio-BBQ-Restaurant-Simulation">📂 Project</a>
 </td>
 </tr>
 </table>
